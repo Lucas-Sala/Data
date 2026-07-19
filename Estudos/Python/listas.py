@@ -44,3 +44,5 @@ print(names)
 
 #Impressão da Posição de um item na lista
 print(names.index("Lucas"))
+
+print(type(names))
