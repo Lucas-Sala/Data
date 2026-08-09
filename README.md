@@ -57,8 +57,7 @@ Realizar uma análise exploratória em uma base de vendas para identificar padr�
 │   └── 04_analise.ipynb
 ├── images/
 ├── processed/
-├── raw/
-└── README.md
+└── raw/
 ```
 
 
@@ -72,11 +71,27 @@ Ano
 2023    142.0575 Milhões de Reais
 2024    135.6491 Milhões de Reais
 ```
-- comportamento temporal das receitas para identificação de sazonalidade nas vendas;
+
+![Distribuição da Receita por Ano](00_Analise_Vendas/images/distReceitaAno.png)
+
+- comportamento temporal das receitas para identificação de 
+sazonalidade nas vendas;
+![Receita por Mes](00_Analise_Vendas/images/distReceitaMes.png)
+
 - produtos mais vendidos e com maior faturamento;
+![](00_Analise_Vendas/images/qtdProdutos+Vendidos.png)
+![](00_Analise_Vendas/images/produtos+Receita.png)
+
 - clientes que mais compram e mais geram receita;
+![](00_Analise_Vendas/images/clientes.png)
+![](00_Analise_Vendas/images/clientes+Quantidade.png)
+![](00_Analise_Vendas/images/clientes+Receita.png)
 - gerentes que mais vendem e mais geram receita;
+![](00_Analise_Vendas/images/gerentes.png)
+
 - produtos mais devolvidos;
+![](00_Analise_Vendas/images/produtosDevolvidos.png)
+![](00_Analise_Vendas/images/produtosDevolvidosMarca.png)
 - distribuição das vendas entre continentes;
 - marcas de produtos mais vendidas.
 
