@@ -96,10 +96,11 @@ sazonalidade nas vendas;
 - marcas de produtos mais vendidas.
 
 
-
 ## Melhorias futuras
 
 - Dashboard em Power BI (Em Construção)
+![](00_Analise_Vendas\Dashboard.png)
+
 - Modelos de Machine Learning
 - Automatização do pipeline
 
