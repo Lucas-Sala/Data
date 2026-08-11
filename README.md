@@ -99,7 +99,7 @@ sazonalidade nas vendas;
 
 ## Melhorias futuras
 
-- Dashboard em Power BI
+- Dashboard em Power BI (Em Construção)
 - Modelos de Machine Learning
 - Automatização do pipeline
 
